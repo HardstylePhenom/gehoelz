@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gaertnerei>
+	<baum>
+		<art>Eiche</art>
+		<planzjahr>2010</planzjahr>
+		<preis>23</preis>
+	</baum>
+	<strauch>
+		<art>Rhododendron</art>
+		<planzjahr>2009</planzjahr>
+		<preis>25</preis>
+	</strauch>
+	<strauch>
+		<art>Hortensie</art>
+		<planzjahr>2006</planzjahr>
+		<preis>15</preis>
+	</strauch>
+</gaertnerei>
